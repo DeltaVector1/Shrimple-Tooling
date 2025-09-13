@@ -29,7 +29,7 @@ print(f'Scale factor: {ratio:.3f}x')
     fi
 }
 
-echo "🧠 Learning Rate Scaler"
+echo "Learning Rate Scaler"
 echo "======================"
 
 while true; do
